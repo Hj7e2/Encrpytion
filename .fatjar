@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue Jan 08 21:57:15 GMT+08:00 2019
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=D\:\\\u4FE1\u606F\\\u81EA\u5236\\File encryption_fat.jar
+manifest.mergeall=true
+manifest.mainclass=Loading
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
